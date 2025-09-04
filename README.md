@@ -85,3 +85,9 @@ BE-UNDANGAN-DIGITAL/ <br>
   ``` bash
   air
   ```
+
+---
+
+## 📜 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](./LICENSE).
